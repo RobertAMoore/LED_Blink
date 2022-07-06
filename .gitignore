@@ -1,3 +1,2 @@
 .gdbinit
-openocd.cfg
-LED_Blink.geany
+LED_Blink.drawio
